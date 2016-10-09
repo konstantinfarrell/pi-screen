@@ -6,6 +6,6 @@ A script you can run to download the necessary drivers, and update the necessary
 
 Just run 
 
-  ./install.sh
+    ./install.sh
   
 it should take care of it from there.
